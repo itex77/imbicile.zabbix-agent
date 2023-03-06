@@ -1,5 +1,5 @@
 ---
-# handlers file for roles/imbicile.zabbix-agent
+# handlers file for roles/itex.zabbix-agent
 - name: restart zabbix-agent
   become: true
   systemd:
