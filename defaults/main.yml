@@ -1,5 +1,5 @@
 ---
-# defaults file for roles/imbicile.zabbix-agent
+# defaults file for roles/itex.zabbix-agent
 
 zabbix_agent_user: "zabbix"
 zabbix_agent_group: "zabbix"
